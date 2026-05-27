@@ -1,4 +1,4 @@
-BloodBridge: Optimizing Lifesaving Resources using RDS & EC2
+## BloodBridge: Optimizing Lifesaving Resources using RDS & EC2
 
 BloodBridge is a smart blood donation and management platform developed to connect donors, hospitals, blood banks, and administrators through a centralized digital system. The project aims to improve emergency blood availability, reduce response time, and simplify blood inventory management using modern web technologies and cloud architecture concepts.
 
